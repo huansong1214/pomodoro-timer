@@ -1,5 +1,7 @@
 # Pomodoro Timer
 
+## Description
+
 A simple Pomodoro Timer to manage work sessions (25 minutes) and breaks (5 minutes).
 
 ## Why I Chose This Project
